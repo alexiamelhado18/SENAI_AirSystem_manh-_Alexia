@@ -1,0 +1,14 @@
+C:\Users\lekin\source\repos\ProjetoEstudoTaskool\ProjetoEstudoTaskool\bin\Debug\ProjetoEstudoTaskool.exe.config
+C:\Users\lekin\source\repos\ProjetoEstudoTaskool\ProjetoEstudoTaskool\bin\Debug\ProjetoEstudoTaskool.exe
+C:\Users\lekin\source\repos\ProjetoEstudoTaskool\ProjetoEstudoTaskool\bin\Debug\ProjetoEstudoTaskool.pdb
+C:\Users\lekin\source\repos\ProjetoEstudoTaskool\ProjetoEstudoTaskool\obj\Debug\ProjetoEstudoTaskool.csprojAssemblyReference.cache
+C:\Users\lekin\source\repos\ProjetoEstudoTaskool\ProjetoEstudoTaskool\obj\Debug\ProjetoEstudoTaskool.Properties.Resources.resources
+C:\Users\lekin\source\repos\ProjetoEstudoTaskool\ProjetoEstudoTaskool\obj\Debug\ProjetoEstudoTaskool.Views.frmCadastroUsuario.resources
+C:\Users\lekin\source\repos\ProjetoEstudoTaskool\ProjetoEstudoTaskool\obj\Debug\ProjetoEstudoTaskool.Form1.resources
+C:\Users\lekin\source\repos\ProjetoEstudoTaskool\ProjetoEstudoTaskool\obj\Debug\ProjetoEstudoTaskool.Views.TlUsuarioAdm.resources
+C:\Users\lekin\source\repos\ProjetoEstudoTaskool\ProjetoEstudoTaskool\obj\Debug\ProjetoEstudoTaskool.Views.TlUsuarioComum.resources
+C:\Users\lekin\source\repos\ProjetoEstudoTaskool\ProjetoEstudoTaskool\obj\Debug\ProjetoEstudoTaskool.Views.TlUsuarios.resources
+C:\Users\lekin\source\repos\ProjetoEstudoTaskool\ProjetoEstudoTaskool\obj\Debug\ProjetoEstudoTaskool.csproj.GenerateResource.cache
+C:\Users\lekin\source\repos\ProjetoEstudoTaskool\ProjetoEstudoTaskool\obj\Debug\ProjetoEstudoTaskool.csproj.CoreCompileInputs.cache
+C:\Users\lekin\source\repos\ProjetoEstudoTaskool\ProjetoEstudoTaskool\obj\Debug\ProjetoEstudoTaskool.exe
+C:\Users\lekin\source\repos\ProjetoEstudoTaskool\ProjetoEstudoTaskool\obj\Debug\ProjetoEstudoTaskool.pdb
